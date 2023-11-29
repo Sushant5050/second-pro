@@ -1,0 +1,7 @@
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\bin\Debug\second pro.exe.config
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\bin\Debug\second pro.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\bin\Debug\second pro.pdb
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\obj\Debug\second pro.csproj.AssemblyReference.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\obj\Debug\second pro.csproj.CoreCompileInputs.cache
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\obj\Debug\second pro.exe
+C:\Users\Sushant Hulawal\OneDrive\Desktop\second pro\second pro\obj\Debug\second pro.pdb
